@@ -72,6 +72,7 @@ Game ini cocok untuk:
 Proyek ini bersifat edukatif. Untuk kontribusi atau pengembangan lebih lanjut, silakan buat pull request atau hubungi developer.
 
 Asset : https://cupnooble.itch.io/sprout-lands-asset-pack
+Sound & BGM : https://opengameart.org/ 
 
 ---
 
